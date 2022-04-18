@@ -1,0 +1,9 @@
+2022/04/19 10:15:53 {john 20}
+2022/04/19 10:15:53 {BMW E92 2020}
+2022/04/19 10:28:52 {john 20}
+2022/04/19 10:28:52 {BMW E92 2020}
+INFO: 2022/04/19 10:28:52 main.go:75: Starting First Log
+2022/04/19 10:33:29 {john 20}
+2022/04/19 10:33:29 {BMW E92 2020}
+INFO: 2022/04/19 10:33:29 main.go:68: Starting First Log
+Error: 2022/04/19 10:33:29 main.go:69: Please Check Something happened
